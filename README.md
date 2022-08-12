@@ -1,4 +1,4 @@
-# UddoktaPay Module of WP Jobster Theme V6.1.2.1
+# UddoktaPay Module of WP Jobster Theme V 6+
 Upload this module into this folder
 
 ```bash
